@@ -1,0 +1,12 @@
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\ETicaretApi.Domain.csproj.AssemblyReference.cache
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\ETicaretApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\ETicaretApi.Domain.AssemblyInfoInputs.cache
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\ETicaretApi.Domain.AssemblyInfo.cs
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\ETicaretApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\bin\Debug\net6.0\ETicaretApi.Domain.deps.json
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\bin\Debug\net6.0\ETicaretApi.Domain.dll
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\bin\Debug\net6.0\ETicaretApi.Domain.pdb
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\ETicaretApi.Domain.dll
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\refint\ETicaretApi.Domain.dll
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\ETicaretApi.Domain.pdb
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Core\ETicaretApi.Domain\obj\Debug\net6.0\ref\ETicaretApi.Domain.dll

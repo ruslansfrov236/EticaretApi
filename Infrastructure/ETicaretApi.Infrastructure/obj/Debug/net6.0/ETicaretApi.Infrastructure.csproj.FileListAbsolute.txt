@@ -1,0 +1,17 @@
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.AssemblyInfo.cs
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Infrastructure.deps.json
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Infrastructure.dll
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Infrastructure.pdb
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.App.dll
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Domain.dll
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.App.pdb
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Domain.pdb
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.csproj.CopyComplete
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.dll
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\refint\ETicaretApi.Infrastructure.dll
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.pdb
+C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ref\ETicaretApi.Infrastructure.dll

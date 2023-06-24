@@ -1,0 +1,12 @@
+2023-05-23 09:35:08.860 +04:00 [INF] User profile is available. Using 'C:\Users\rusla\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-05-23 09:35:11.058 +04:00 [INF] Now listening on: http://localhost:5000
+2023-05-23 09:35:11.061 +04:00 [INF] Now listening on: https://localhost:5001
+2023-05-23 09:35:11.071 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-23 09:35:11.074 +04:00 [INF] Hosting environment: Production
+2023-05-23 09:35:11.076 +04:00 [INF] Content root path: C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Presentation\ETicaretApi.WebApi\bin\Debug\net6.0\
+2023-05-23 09:36:04.866 +04:00 [INF] User profile is available. Using 'C:\Users\rusla\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-05-23 09:36:05.522 +04:00 [INF] Now listening on: http://localhost:5000
+2023-05-23 09:36:05.524 +04:00 [INF] Now listening on: https://localhost:5001
+2023-05-23 09:36:05.533 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-23 09:36:05.535 +04:00 [INF] Hosting environment: Production
+2023-05-23 09:36:05.537 +04:00 [INF] Content root path: C:\Users\rusla\OneDrive\Документы\E-Ticaret\ETicaretApi\Presentation\ETicaretApi.WebApi\bin\Debug\net6.0\

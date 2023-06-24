@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\ETicaretApi.App",
+    "\\Core\\ETicaretApi.App\\Features",
+    "\\Core\\ETicaretApi.App\\Features\\Commands",
+    "\\Core\\ETicaretApi.App\\Features\\Commands\\AppUser",
+    "\\Core\\ETicaretApi.App\\Features\\Commands\\AppUser\\FacebookLogin",
+    "\\Infrastructure",
+    "\\Presentation",
+    "\\Presentation\\ETicaretApi.WebApi",
+    "\\Presentation\\ETicaretApi.WebApi\\Controllers"
+  ],
+  "SelectedNode": "\\ETicaretApi.sln",
+  "PreviewInSolutionExplorer": false
+}
